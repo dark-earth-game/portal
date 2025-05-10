@@ -8,19 +8,8 @@ permalink: /metadata/characters
 # Characters
 
 ## Arkham
-
 ### P01
-<a href="{{## Zed
-### P25
-<a href="{{ site.baseurl }}/assets/game/datas/portrait/P25.png" style="margin: 6px; display: inline-flex; border-radius: 15px; border: 1px solid #80808042; padding: 5px;">
-    <img src="{{ site.baseurl }}/assets/game/datas/portrait/P25.png" alt="Zed" style="border-radius: 10px" />
-</a>
-
-## Bork
-### P26
-<a href="{{ site.baseurl }}/assets/game/datas/portrait/P26.png" style="margin: 6px; display: inline-flex; border-radius: 15px; border: 1px solid #80808042; padding: 5px;">
-    <img src="{{ site.baseurl }}/assets/game/datas/portrait/P26.png" alt="Bork" style="border-radius: 10px" />
-</a>rl }}/assets/game/datas/portrait/P01.png" style="margin: 6px; display: inline-flex; border-radius: 15px; border: 1px solid #80808042; padding: 5px;">
+<a href="{{ site.baseurl }}/assets/game/datas/portrait/P01.png" style="margin: 6px; display: inline-flex; border-radius: 15px; border: 1px solid #80808042; padding: 5px;">
     <img src="{{ site.baseurl }}/assets/game/datas/portrait/P01.png" alt="Arkham" style="border-radius: 10px" />
 </a>
 
