@@ -6,12 +6,8 @@ description: Community driven project aims to document all available content fro
 permalink: /
 ---
 
-<!--a href="{{ site.baseurl }}/assets/images/concept_art/logo.png">
-    <img src="{{ site.baseurl }}/assets/images/concept_art/logo.png" alt="Logo" style="border-radius: 10px" />
-</a-->
-
 <a href="{{ site.baseurl }}/assets/images/logo/LOGODKE.png" style="margin: 6px; display: inline-flex; border-radius: 15px; border: 0px solid #80808042; padding: 5px;">
-    <img src="{{ site.baseurl }}/assets/images/logo/LOGODKE.png" alt="Time Commando vs Ninja" style="border-radius: 10px" />
+    <img src="{{ site.baseurl }}/assets/images/logo/LOGODKE.png" alt="Dark Earth" style="border-radius: 10px" />
 </a>
 
 Welcome to the Dark Earth Game Portal.
