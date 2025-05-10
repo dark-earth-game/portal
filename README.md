@@ -16,7 +16,7 @@ Fork the projct to your own repository, make your changes and submit a pull requ
 ### Install Jekyll and Bundler
 
 If you don't have Jekyll installed, you can install it by running the following command:
-
+ 
 ```bash
 gem update --system
 gem install jekyll bundler
