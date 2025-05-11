@@ -6,9 +6,13 @@ description: Community driven project aims to document all available content fro
 permalink: /
 ---
 
+# Dark Earth
+
+<img src="{{ site.baseurl }}/assets/topbar/1_story.jpg" alt="Dark Earth" style="display: inline-flex; border-radius: 15px; border: 1px solid #80808042; padding: 2px;" />
+
 <p class="text-small text-grey-dk-100 mb-0">Latest Update: {{ "now" | date: site.date_format }}</p>
 
-<a href="{{ site.baseurl }}/assets/images/logo/LOGODKE.png" style="margin: 6px; display: inline-flex; border-radius: 15px; border: 0px solid #80808042; padding: 5px;">
+<a href="{{ site.baseurl }}/assets/images/logo/LOGODKE.png" style="max-width: 240px; margin: 6px; display: inline-flex; border-radius: 15px; border: 0px solid #80808042; padding: 5px;">
     <img src="{{ site.baseurl }}/assets/images/logo/LOGODKE.png" alt="Dark Earth" style="border-radius: 10px" />
 </a>
 
@@ -31,6 +35,6 @@ This documentation is licensed under MIT.
 The Dark Earth was original developed by Kalisto Entertainment in 1997. It has been published by MicroProse, distributed by Electronic Arts and released for PC for Windows 95.
 The Intellectual Property of Dark Earth and its Universe is currently owned by a French Film Producer.
 
-<a href="{{ site.baseurl }}/assets/images/renders/arkhan.png" style="margin: 6px; display: inline-flex; border-radius: 15px; border: 1px solid #80808042; padding: 5px;">
+<a href="{{ site.baseurl }}/assets/images/renders/arkhan.png" style="max-width: 640px; margin: 6px; display: inline-flex; border-radius: 15px; border: 1px solid #80808042; padding: 5px;">
     <img src="{{ site.baseurl }}/assets/images/renders/arkhan.png" alt="Arkhan" style="border-radius: 10px" />
 </a>

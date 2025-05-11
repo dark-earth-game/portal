@@ -6,6 +6,9 @@ permalink: /rpg
 ---
 
 # RPG Books
+
+<img src="{{ site.baseurl }}/assets/topbar/3_rpg.jpg" alt="Dark Earth" style="display: inline-flex; border-radius: 15px; border: 1px solid #80808042; padding: 2px;" />
+
 {: .no_toc }
 
 ## Playing RPG by Amaras VOD - French

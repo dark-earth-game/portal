@@ -6,6 +6,9 @@ permalink: /metadata
 ---
 
 # Metadata
+
+<img src="{{ site.baseurl }}/assets/topbar/5_metadata.jpg" alt="Dark Earth" style="display: inline-flex; border-radius: 15px; border: 1px solid #80808042; padding: 2px;" />
+
 {: .no_toc }
 
 <!-- ## Table of Contents

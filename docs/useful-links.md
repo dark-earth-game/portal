@@ -6,14 +6,18 @@ permalink: /links
 
 # Useful Links
 
+<img src="{{ site.baseurl }}/assets/topbar/6_links.jpg" alt="Dark Earth" style="display: inline-flex; border-radius: 15px; border: 1px solid #80808042; padding: 2px;" />
+
 ## Dark Earth
 
 * [Dark Earth on MobyGames](https://www.mobygames.com/game/2874/dark-earth/)
 * [Dark Earth on Wikipedia](https://en.wikipedia.org/wiki/Dark_Earth)
+* [Reddit Dark Earth](https://www.reddit.com/r/DarkEarthPC/)
 
 ### Speedrun
 
 * [Dark Earth on Speedrun.com](https://www.speedrun.com/dark_earth)
+* [Discord Speedrun Community](https://discord.gg/8qXpu33r)
 
 ### Buy Physical
 
